@@ -1,1 +1,2 @@
 - 👋 Hi, I’m @wanda-carlson. I write papers about papers.
+- I've been in this industry for 7 years. 
