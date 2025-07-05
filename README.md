@@ -1,5 +1,1 @@
-- 👋 Hi, I’m @wanda-carlson. I write papers about papers.
-- 👋 Hi, I’m @wanda-carlson. I write papers about papers.
-- 👋 Hi, I’m @wanda-carlson. I write papers about papers.
-- 👋 Hi, I’m @wanda-carlson. I write papers about papers.
-- And read about news and football. 
+👋 Hi, I’m @wanda-carlson. I write papers about papers.
